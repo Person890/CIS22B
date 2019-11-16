@@ -1,0 +1,24 @@
+113244 50 10 Slippers
+122339 0 5.99 Ceramic Pot
+131299 25 10 Credit Card Holder
+211298 25 8 Business Card Holder
+221124 70 12.99 Slippers
+230039 0 11.99 Belt
+312378 43 9.99 Small Storage Basket
+321123 97 4.25 Hand Soap
+339234 33 10.99 Bag
+411234 5 8.75 Scarf
+422892 11 9.50 Makeup Brush Set
+439123 0 9.99 Ceramic Pot
+518934 20 8 Lip Balm
+520223 2 10 Belt
+532313 3 15.25 Slippers
+610992 12 8.50 Cable Knit Beanie
+621234 10 19.99 Bag
+634411 0 9.75 Slippers
+711099 0 6.25 Touch-Screen Gloves
+722908 40 10.25 Canvas Tote Bag
+812398 2 9.50 Pillow Cover
+828824 0 7.25 Bag
+911327 10 12.50 Slippers
+921234 50 5.99 Bag

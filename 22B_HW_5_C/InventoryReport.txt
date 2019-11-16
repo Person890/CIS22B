@@ -1,0 +1,31 @@
+Inventory report
+========== ==================== ========== ========== ==========
+ ItemNo              Name        Quantity    Cost     Total Cost
+========== ==================== ========== ========== ==========
+113244     Slippers                     50         10        500
+122339     Ceramic Pot                   0       5.99          0
+131299     Credit Card Holder           25         10        250
+211298     Business Card Holder         25          8        200
+221124     Slippers                     70      12.99      909.3
+230039     Belt                          0      11.99          0
+312378     Small Storage Basket         43       9.99     429.57
+321123     Hand Soap                    97       4.25     412.25
+339234     Bag                          33      10.99     362.67
+411234     Scarf                         5       8.75      43.75
+422892     Makeup Brush Set             11        9.5      104.5
+439123     Ceramic Pot                   0       9.99          0
+518934     Lip Balm                     20          8        160
+520223     Belt                          2         10         20
+532313     Slippers                      3      15.25      45.75
+610992     Cable Knit Beanie            12        8.5        102
+621234     Bag                          10      19.99      199.9
+634411     Slippers                      0       9.75          0
+711099     Touch-Screen Gloves           0       6.25          0
+722908     Canvas Tote Bag              40      10.25        410
+812398     Pillow Cover                  2        9.5         19
+828824     Bag                           0       7.25          0
+911327     Slippers                     10       12.5        125
+921234     Bag                          50       5.99      299.5
+========== ==================== ========== ========== ==========
+Number of items: 24
+Store total: $4593.19
